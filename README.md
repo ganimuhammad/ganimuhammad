@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Gani 👋🏻
+Full Stack Web Develpoer.
+React Learner.
 
-<!--
-**ganimuhammad/ganimuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Values
+🧠 Thoughtful & Inclusive Development <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+☕️ Tea addict <br/>
+🏃🏼‍♀️ Avid Runner </br>
+
+## Connect with Me
+- [Instagram](https://www.instagram.com/ganimuhammed/?hl=en) <br/>
+- [Linkedin](https://www.linkedin.com/in/muhammad-gani-p-p-6882629b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuoG5kvHLQrmOwIZS5vKNmQ%3D%3D) <br/>
