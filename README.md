@@ -1,6 +1,6 @@
 # Hi there, I'm Gani 👋🏻
-Full Stack Web Develpoer.
-React Learner.
+Software Develpoer.
+React Enthusiast.
 
 
 ## My Values
