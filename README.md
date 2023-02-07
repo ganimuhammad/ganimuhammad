@@ -1,6 +1,7 @@
 # Hi there, I'm Gani 👋🏻
 Software Develpoer.
 React Enthusiast.
+Cargo Bike Rider
 
 
 ## My Values
